@@ -35,7 +35,7 @@
 
 | 프로젝트 | 한 줄 소개 | 기술 |
 |---|---|---|
-| [fall-detection](https://github.com/munho-kang/fall-detection) | 독거노인을 위한 자세 인식 AI 낙상 감지·보호자 알림 (공모전 출품) | Flutter |
+| [fall-detection](https://github.com/munho-kang/fall-detection) | 독거노인을 위한 자세 인식 AI 낙상 감지·보호자 알림 | Flutter |
 | [Subway_Surfers](https://github.com/munho-kang/Subway_Surfers) | 카메라 앞에서 몸으로 조작하는 3레인 러너 게임 | JavaScript |
 | [school_bus_app](https://github.com/munho-kang/school_bus_app) | 제주대 셔틀버스 위치·학식·시간표를 한 곳에서 보는 캠퍼스 앱 | Flutter |
 | [Folder_Lock](https://github.com/munho-kang/Folder_Lock) | 비밀번호 하나로 폴더를 통째로 암호화하는 윈도우 프로그램 | Python |
