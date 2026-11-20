@@ -38,9 +38,9 @@
 | [fall-detection](https://github.com/munho-kang/fall-detection) | 독거노인을 위한 자세 인식 AI 낙상 감지·보호자 알림 | Flutter |
 | [Subway_Surfers](https://github.com/munho-kang/Subway_Surfers) | 카메라 앞에서 몸으로 조작하는 3레인 러너 게임 | JavaScript |
 | [school_bus_app](https://github.com/munho-kang/school_bus_app) | 제주대 셔틀버스 위치·학식·시간표를 한 곳에서 보는 캠퍼스 앱 | Flutter |
-| [Folder_Lock](https://github.com/munho-kang/Folder_Lock) | 비밀번호 하나로 폴더를 통째로 암호화하는 윈도우 프로그램 | Python |
-| [PythonProject](https://github.com/munho-kang/PythonProject) | 손 추적·배경 제거 등 영상 처리 실험 모음 | Python |
-| [weniv_project](https://github.com/munho-kang/weniv_project) | 영상이 기기 밖으로 나가지 않는 노인 낙상 감지 시스템 | Flutter |
+| [seatMe](https://github.com/munho-kang/seatMe) | 햇빛·전망·흔들림·날씨를 따져 비행기 좌석을 추천하는 웹 서비스 | React · TypeScript |
+| [toeic-mock-test](https://github.com/munho-kang/toeic-mock-test) | 토익 실전 모의고사(문제지·해설 PDF, 듣기 MP3)를 만드는 Claude Code 스킬 | Python · JavaScript |
+| [helpTeacher2-](https://github.com/munho-kang/helpTeacher2-) | 생기부·세특 초안, 자리배치, 문제 출제를 돕는 교사용 AI 웹 도구 | Python · JavaScript |
 
 ## 📊 GitHub Stats
 
