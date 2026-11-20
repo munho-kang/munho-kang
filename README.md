@@ -10,7 +10,7 @@
 
 - 🏫 제주대학교 재학 중
 - 🤖 온디바이스 AI에 관심이 많아요
-- 🌱 요즘 배우는 것: 로컬 LLM, 연합학습(Federated Learning), Java 백엔드
+- 🌱 요즘 좋아하는 것: 로컬 LLM, 백엔드
 
 ## 🛠 Tech Stack
 
